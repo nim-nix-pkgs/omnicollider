@@ -128,14 +128,10 @@
     "cligen-0_9_6_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -161,14 +157,10 @@
     "cligen-0_9_6_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -194,14 +186,10 @@
     "cligen-0_9_6_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -227,14 +215,10 @@
     "cligen-0_9_6_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -260,14 +244,10 @@
     "cligen-0_9_6_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -293,14 +273,10 @@
     "cligen-0_9_6_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -326,14 +302,10 @@
     "cligen-0_9_6_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -359,14 +331,10 @@
     "cligen-0_9_6_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -421,14 +389,10 @@
     "cligen-master_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -454,14 +418,10 @@
     "cligen-master_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -487,14 +447,10 @@
     "cligen-master_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -520,14 +476,10 @@
     "cligen-master_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -553,14 +505,10 @@
     "cligen-master_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -586,14 +534,10 @@
     "cligen-master_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -619,14 +563,10 @@
     "cligen-master_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -652,14 +592,10 @@
     "cligen-master_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -714,14 +650,10 @@
     "cligen-v0_9_10_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -747,14 +679,10 @@
     "cligen-v0_9_10_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -780,14 +708,10 @@
     "cligen-v0_9_10_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -813,14 +737,10 @@
     "cligen-v0_9_10_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -846,14 +766,10 @@
     "cligen-v0_9_10_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -879,14 +795,10 @@
     "cligen-v0_9_10_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -912,14 +824,10 @@
     "cligen-v0_9_10_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -945,14 +853,10 @@
     "cligen-v0_9_10_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -1007,14 +911,10 @@
     "cligen-v0_9_11_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1040,14 +940,10 @@
     "cligen-v0_9_11_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1073,14 +969,10 @@
     "cligen-v0_9_11_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -1106,14 +998,10 @@
     "cligen-v0_9_11_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -1139,14 +1027,10 @@
     "cligen-v0_9_11_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -1172,14 +1056,10 @@
     "cligen-v0_9_11_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1205,14 +1085,10 @@
     "cligen-v0_9_11_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -1238,14 +1114,10 @@
     "cligen-v0_9_11_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -1300,14 +1172,10 @@
     "cligen-v0_9_12_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1333,14 +1201,10 @@
     "cligen-v0_9_12_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1366,14 +1230,10 @@
     "cligen-v0_9_12_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -1399,14 +1259,10 @@
     "cligen-v0_9_12_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -1432,14 +1288,10 @@
     "cligen-v0_9_12_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -1465,14 +1317,10 @@
     "cligen-v0_9_12_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1498,14 +1346,10 @@
     "cligen-v0_9_12_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -1531,14 +1375,10 @@
     "cligen-v0_9_12_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -1593,14 +1433,10 @@
     "cligen-v0_9_13_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1626,14 +1462,10 @@
     "cligen-v0_9_13_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1659,14 +1491,10 @@
     "cligen-v0_9_13_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -1692,14 +1520,10 @@
     "cligen-v0_9_13_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -1725,14 +1549,10 @@
     "cligen-v0_9_13_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -1758,14 +1578,10 @@
     "cligen-v0_9_13_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1791,14 +1607,10 @@
     "cligen-v0_9_13_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -1824,14 +1636,10 @@
     "cligen-v0_9_13_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -1886,14 +1694,10 @@
     "cligen-v0_9_15_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1919,14 +1723,10 @@
     "cligen-v0_9_15_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -1952,14 +1752,10 @@
     "cligen-v0_9_15_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -1985,14 +1781,10 @@
     "cligen-v0_9_15_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -2018,14 +1810,10 @@
     "cligen-v0_9_15_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -2051,14 +1839,10 @@
     "cligen-v0_9_15_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -2084,14 +1868,10 @@
     "cligen-v0_9_15_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -2117,14 +1897,10 @@
     "cligen-v0_9_15_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -2179,14 +1955,10 @@
     "cligen-v0_9_16_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -2212,14 +1984,10 @@
     "cligen-v0_9_16_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -2245,14 +2013,10 @@
     "cligen-v0_9_16_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -2278,14 +2042,10 @@
     "cligen-v0_9_16_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -2311,14 +2071,10 @@
     "cligen-v0_9_16_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -2344,14 +2100,10 @@
     "cligen-v0_9_16_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -2377,14 +2129,10 @@
     "cligen-v0_9_16_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -2410,14 +2158,10 @@
     "cligen-v0_9_16_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -2472,14 +2216,10 @@
     "cligen-v0_9_17_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -2505,14 +2245,10 @@
     "cligen-v0_9_17_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -2538,14 +2274,10 @@
     "cligen-v0_9_17_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -2571,14 +2303,10 @@
     "cligen-v0_9_17_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -2604,14 +2332,10 @@
     "cligen-v0_9_17_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -2637,14 +2361,10 @@
     "cligen-v0_9_17_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -2670,14 +2390,10 @@
     "cligen-v0_9_17_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -2703,14 +2419,10 @@
     "cligen-v0_9_17_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -2765,14 +2477,10 @@
     "cligen-v0_9_18_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -2798,14 +2506,10 @@
     "cligen-v0_9_18_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -2831,14 +2535,10 @@
     "cligen-v0_9_18_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -2864,14 +2564,10 @@
     "cligen-v0_9_18_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -2897,14 +2593,10 @@
     "cligen-v0_9_18_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -2930,14 +2622,10 @@
     "cligen-v0_9_18_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -2963,14 +2651,10 @@
     "cligen-v0_9_18_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -2996,14 +2680,10 @@
     "cligen-v0_9_18_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -3058,14 +2738,10 @@
     "cligen-v0_9_19_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -3091,14 +2767,10 @@
     "cligen-v0_9_19_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -3124,14 +2796,10 @@
     "cligen-v0_9_19_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -3157,14 +2825,10 @@
     "cligen-v0_9_19_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -3190,14 +2854,10 @@
     "cligen-v0_9_19_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -3223,14 +2883,10 @@
     "cligen-v0_9_19_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -3256,14 +2912,10 @@
     "cligen-v0_9_19_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -3289,14 +2941,10 @@
     "cligen-v0_9_19_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -3351,14 +2999,10 @@
     "cligen-v0_9_22_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -3384,14 +3028,10 @@
     "cligen-v0_9_22_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -3417,14 +3057,10 @@
     "cligen-v0_9_22_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -3450,14 +3086,10 @@
     "cligen-v0_9_22_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -3483,14 +3115,10 @@
     "cligen-v0_9_22_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -3516,14 +3144,10 @@
     "cligen-v0_9_22_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -3549,14 +3173,10 @@
     "cligen-v0_9_22_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -3582,14 +3202,10 @@
     "cligen-v0_9_22_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -3644,14 +3260,10 @@
     "cligen-v0_9_23_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -3677,14 +3289,10 @@
     "cligen-v0_9_23_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -3710,14 +3318,10 @@
     "cligen-v0_9_23_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -3743,14 +3347,10 @@
     "cligen-v0_9_23_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -3776,14 +3376,10 @@
     "cligen-v0_9_23_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -3809,14 +3405,10 @@
     "cligen-v0_9_23_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -3842,14 +3434,10 @@
     "cligen-v0_9_23_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -3875,14 +3463,10 @@
     "cligen-v0_9_23_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -3937,14 +3521,10 @@
     "cligen-v0_9_24_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -3970,14 +3550,10 @@
     "cligen-v0_9_24_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -4003,14 +3579,10 @@
     "cligen-v0_9_24_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -4036,14 +3608,10 @@
     "cligen-v0_9_24_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -4069,14 +3637,10 @@
     "cligen-v0_9_24_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -4102,14 +3666,10 @@
     "cligen-v0_9_24_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -4135,14 +3695,10 @@
     "cligen-v0_9_24_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -4168,14 +3724,10 @@
     "cligen-v0_9_24_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -4230,14 +3782,10 @@
     "cligen-v0_9_25_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -4263,14 +3811,10 @@
     "cligen-v0_9_25_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -4296,14 +3840,10 @@
     "cligen-v0_9_25_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -4329,14 +3869,10 @@
     "cligen-v0_9_25_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -4362,14 +3898,10 @@
     "cligen-v0_9_25_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -4395,14 +3927,10 @@
     "cligen-v0_9_25_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -4428,14 +3956,10 @@
     "cligen-v0_9_25_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -4461,14 +3985,10 @@
     "cligen-v0_9_25_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -4523,14 +4043,10 @@
     "cligen-v0_9_26_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -4556,14 +4072,10 @@
     "cligen-v0_9_26_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -4589,14 +4101,10 @@
     "cligen-v0_9_26_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -4622,14 +4130,10 @@
     "cligen-v0_9_26_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -4655,14 +4159,10 @@
     "cligen-v0_9_26_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -4688,14 +4188,10 @@
     "cligen-v0_9_26_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -4721,14 +4217,10 @@
     "cligen-v0_9_26_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -4754,14 +4246,10 @@
     "cligen-v0_9_26_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -4816,14 +4304,10 @@
     "cligen-v0_9_27_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -4849,14 +4333,10 @@
     "cligen-v0_9_27_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -4882,14 +4362,10 @@
     "cligen-v0_9_27_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -4915,14 +4391,10 @@
     "cligen-v0_9_27_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -4948,14 +4420,10 @@
     "cligen-v0_9_27_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -4981,14 +4449,10 @@
     "cligen-v0_9_27_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -5014,14 +4478,10 @@
     "cligen-v0_9_27_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -5047,14 +4507,10 @@
     "cligen-v0_9_27_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -5109,14 +4565,10 @@
     "cligen-v0_9_28_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -5142,14 +4594,10 @@
     "cligen-v0_9_28_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -5175,14 +4623,10 @@
     "cligen-v0_9_28_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -5208,14 +4652,10 @@
     "cligen-v0_9_28_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -5241,14 +4681,10 @@
     "cligen-v0_9_28_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -5274,14 +4710,10 @@
     "cligen-v0_9_28_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -5307,14 +4739,10 @@
     "cligen-v0_9_28_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -5340,14 +4768,10 @@
     "cligen-v0_9_28_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -5402,14 +4826,10 @@
     "cligen-v0_9_29_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -5435,14 +4855,10 @@
     "cligen-v0_9_29_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -5468,14 +4884,10 @@
     "cligen-v0_9_29_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -5501,14 +4913,10 @@
     "cligen-v0_9_29_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -5534,14 +4942,10 @@
     "cligen-v0_9_29_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -5567,14 +4971,10 @@
     "cligen-v0_9_29_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -5600,14 +5000,10 @@
     "cligen-v0_9_29_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -5633,14 +5029,10 @@
     "cligen-v0_9_29_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -5695,14 +5087,10 @@
     "cligen-v0_9_30_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -5728,14 +5116,10 @@
     "cligen-v0_9_30_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -5761,14 +5145,10 @@
     "cligen-v0_9_30_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -5794,14 +5174,10 @@
     "cligen-v0_9_30_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -5827,14 +5203,10 @@
     "cligen-v0_9_30_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -5860,14 +5232,10 @@
     "cligen-v0_9_30_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -5893,14 +5261,10 @@
     "cligen-v0_9_30_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -5926,14 +5290,10 @@
     "cligen-v0_9_30_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -5988,14 +5348,10 @@
     "cligen-v0_9_31_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6021,14 +5377,10 @@
     "cligen-v0_9_31_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6054,14 +5406,10 @@
     "cligen-v0_9_31_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -6087,14 +5435,10 @@
     "cligen-v0_9_31_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -6120,14 +5464,10 @@
     "cligen-v0_9_31_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -6153,14 +5493,10 @@
     "cligen-v0_9_31_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6186,14 +5522,10 @@
     "cligen-v0_9_31_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -6219,14 +5551,10 @@
     "cligen-v0_9_31_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -6281,14 +5609,10 @@
     "cligen-v0_9_32_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6314,14 +5638,10 @@
     "cligen-v0_9_32_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6347,14 +5667,10 @@
     "cligen-v0_9_32_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -6380,14 +5696,10 @@
     "cligen-v0_9_32_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -6413,14 +5725,10 @@
     "cligen-v0_9_32_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -6446,14 +5754,10 @@
     "cligen-v0_9_32_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6479,14 +5783,10 @@
     "cligen-v0_9_32_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -6512,14 +5812,10 @@
     "cligen-v0_9_32_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -6574,14 +5870,10 @@
     "cligen-v0_9_33_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6607,14 +5899,10 @@
     "cligen-v0_9_33_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6640,14 +5928,10 @@
     "cligen-v0_9_33_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -6673,14 +5957,10 @@
     "cligen-v0_9_33_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -6706,14 +5986,10 @@
     "cligen-v0_9_33_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -6739,14 +6015,10 @@
     "cligen-v0_9_33_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6772,14 +6044,10 @@
     "cligen-v0_9_33_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -6805,14 +6073,10 @@
     "cligen-v0_9_33_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -6867,14 +6131,10 @@
     "cligen-v0_9_34_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6900,14 +6160,10 @@
     "cligen-v0_9_34_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -6933,14 +6189,10 @@
     "cligen-v0_9_34_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -6966,14 +6218,10 @@
     "cligen-v0_9_34_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -6999,14 +6247,10 @@
     "cligen-v0_9_34_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -7032,14 +6276,10 @@
     "cligen-v0_9_34_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -7065,14 +6305,10 @@
     "cligen-v0_9_34_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -7098,14 +6334,10 @@
     "cligen-v0_9_34_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -7160,14 +6392,10 @@
     "cligen-v0_9_35_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -7193,14 +6421,10 @@
     "cligen-v0_9_35_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -7226,14 +6450,10 @@
     "cligen-v0_9_35_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -7259,14 +6479,10 @@
     "cligen-v0_9_35_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -7292,14 +6508,10 @@
     "cligen-v0_9_35_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -7325,14 +6537,10 @@
     "cligen-v0_9_35_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -7358,14 +6566,10 @@
     "cligen-v0_9_35_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -7391,14 +6595,10 @@
     "cligen-v0_9_35_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -7453,14 +6653,10 @@
     "cligen-v0_9_36_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -7486,14 +6682,10 @@
     "cligen-v0_9_36_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -7519,14 +6711,10 @@
     "cligen-v0_9_36_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -7552,14 +6740,10 @@
     "cligen-v0_9_36_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -7585,14 +6769,10 @@
     "cligen-v0_9_36_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -7618,14 +6798,10 @@
     "cligen-v0_9_36_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -7651,14 +6827,10 @@
     "cligen-v0_9_36_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -7684,14 +6856,10 @@
     "cligen-v0_9_36_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -7746,14 +6914,10 @@
     "cligen-v0_9_37_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -7779,14 +6943,10 @@
     "cligen-v0_9_37_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -7812,14 +6972,10 @@
     "cligen-v0_9_37_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -7845,14 +7001,10 @@
     "cligen-v0_9_37_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -7878,14 +7030,10 @@
     "cligen-v0_9_37_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -7911,14 +7059,10 @@
     "cligen-v0_9_37_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -7944,14 +7088,10 @@
     "cligen-v0_9_37_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -7977,14 +7117,10 @@
     "cligen-v0_9_37_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -8039,14 +7175,10 @@
     "cligen-v0_9_38_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -8072,14 +7204,10 @@
     "cligen-v0_9_38_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -8105,14 +7233,10 @@
     "cligen-v0_9_38_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -8138,14 +7262,10 @@
     "cligen-v0_9_38_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -8171,14 +7291,10 @@
     "cligen-v0_9_38_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -8204,14 +7320,10 @@
     "cligen-v0_9_38_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -8237,14 +7349,10 @@
     "cligen-v0_9_38_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -8270,14 +7378,10 @@
     "cligen-v0_9_38_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -8332,14 +7436,10 @@
     "cligen-v0_9_39_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -8365,14 +7465,10 @@
     "cligen-v0_9_39_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -8398,14 +7494,10 @@
     "cligen-v0_9_39_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -8431,14 +7523,10 @@
     "cligen-v0_9_39_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -8464,14 +7552,10 @@
     "cligen-v0_9_39_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -8497,14 +7581,10 @@
     "cligen-v0_9_39_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -8530,14 +7610,10 @@
     "cligen-v0_9_39_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -8563,14 +7639,10 @@
     "cligen-v0_9_39_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -8654,14 +7726,10 @@
     "cligen-v0_9_40_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -8687,14 +7755,10 @@
     "cligen-v0_9_40_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -8720,14 +7784,10 @@
     "cligen-v0_9_40_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -8753,14 +7813,10 @@
     "cligen-v0_9_40_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -8786,14 +7842,10 @@
     "cligen-v0_9_40_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -8819,14 +7871,10 @@
     "cligen-v0_9_40_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -8852,14 +7900,10 @@
     "cligen-v0_9_40_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -8885,14 +7929,10 @@
     "cligen-v0_9_40_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -8947,14 +7987,10 @@
     "cligen-v0_9_41_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -8980,14 +8016,10 @@
     "cligen-v0_9_41_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -9013,14 +8045,10 @@
     "cligen-v0_9_41_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -9046,14 +8074,10 @@
     "cligen-v0_9_41_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -9079,14 +8103,10 @@
     "cligen-v0_9_41_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -9112,14 +8132,10 @@
     "cligen-v0_9_41_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -9145,14 +8161,10 @@
     "cligen-v0_9_41_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -9178,14 +8190,10 @@
     "cligen-v0_9_41_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -9240,14 +8248,10 @@
     "cligen-v0_9_42_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -9273,14 +8277,10 @@
     "cligen-v0_9_42_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -9306,14 +8306,10 @@
     "cligen-v0_9_42_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -9339,14 +8335,10 @@
     "cligen-v0_9_42_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -9372,14 +8364,10 @@
     "cligen-v0_9_42_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -9405,14 +8393,10 @@
     "cligen-v0_9_42_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -9438,14 +8422,10 @@
     "cligen-v0_9_42_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -9471,14 +8451,10 @@
     "cligen-v0_9_42_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -9533,14 +8509,10 @@
     "cligen-v0_9_43_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -9566,14 +8538,10 @@
     "cligen-v0_9_43_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -9599,14 +8567,10 @@
     "cligen-v0_9_43_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -9632,14 +8596,10 @@
     "cligen-v0_9_43_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -9665,14 +8625,10 @@
     "cligen-v0_9_43_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -9698,14 +8654,10 @@
     "cligen-v0_9_43_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -9731,14 +8683,10 @@
     "cligen-v0_9_43_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -9764,14 +8712,10 @@
     "cligen-v0_9_43_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -9826,14 +8770,10 @@
     "cligen-v0_9_44_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -9859,14 +8799,10 @@
     "cligen-v0_9_44_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -9892,14 +8828,10 @@
     "cligen-v0_9_44_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -9925,14 +8857,10 @@
     "cligen-v0_9_44_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -9958,14 +8886,10 @@
     "cligen-v0_9_44_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -9991,14 +8915,10 @@
     "cligen-v0_9_44_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -10024,14 +8944,10 @@
     "cligen-v0_9_44_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -10057,14 +8973,10 @@
     "cligen-v0_9_44_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -10119,14 +9031,10 @@
     "cligen-v0_9_45_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -10152,14 +9060,10 @@
     "cligen-v0_9_45_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -10185,14 +9089,10 @@
     "cligen-v0_9_45_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -10218,14 +9118,10 @@
     "cligen-v0_9_45_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -10251,14 +9147,10 @@
     "cligen-v0_9_45_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -10284,14 +9176,10 @@
     "cligen-v0_9_45_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -10317,14 +9205,10 @@
     "cligen-v0_9_45_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -10350,14 +9234,10 @@
     "cligen-v0_9_45_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -10412,14 +9292,10 @@
     "cligen-v0_9_46_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -10445,14 +9321,10 @@
     "cligen-v0_9_46_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -10478,14 +9350,10 @@
     "cligen-v0_9_46_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -10511,14 +9379,10 @@
     "cligen-v0_9_46_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -10544,14 +9408,10 @@
     "cligen-v0_9_46_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -10577,14 +9437,10 @@
     "cligen-v0_9_46_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -10610,14 +9466,10 @@
     "cligen-v0_9_46_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -10643,14 +9495,10 @@
     "cligen-v0_9_46_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -10705,14 +9553,10 @@
     "cligen-v0_9_47_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -10738,14 +9582,10 @@
     "cligen-v0_9_47_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -10771,14 +9611,10 @@
     "cligen-v0_9_47_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -10804,14 +9640,10 @@
     "cligen-v0_9_47_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -10837,14 +9669,10 @@
     "cligen-v0_9_47_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -10870,14 +9698,10 @@
     "cligen-v0_9_47_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -10903,14 +9727,10 @@
     "cligen-v0_9_47_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -10936,14 +9756,10 @@
     "cligen-v0_9_47_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -10969,14 +9785,10 @@
     "cligen-v0_9_4_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11002,14 +9814,10 @@
     "cligen-v0_9_4_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11035,14 +9843,10 @@
     "cligen-v0_9_4_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -11068,14 +9872,10 @@
     "cligen-v0_9_4_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -11101,14 +9901,10 @@
     "cligen-v0_9_4_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -11134,14 +9930,10 @@
     "cligen-v0_9_4_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11167,14 +9959,10 @@
     "cligen-v0_9_4_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -11200,14 +9988,10 @@
     "cligen-v0_9_4_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -11262,14 +10046,10 @@
     "cligen-v0_9_9_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11295,14 +10075,10 @@
     "cligen-v0_9_9_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11328,14 +10104,10 @@
     "cligen-v0_9_9_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -11361,14 +10133,10 @@
     "cligen-v0_9_9_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -11394,14 +10162,10 @@
     "cligen-v0_9_9_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -11427,14 +10191,10 @@
     "cligen-v0_9_9_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11460,14 +10220,10 @@
     "cligen-v0_9_9_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -11493,14 +10249,10 @@
     "cligen-v0_9_9_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -11555,14 +10307,10 @@
     "cligen-v1_0_0_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11588,14 +10336,10 @@
     "cligen-v1_0_0_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11621,14 +10365,10 @@
     "cligen-v1_0_0_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -11654,14 +10394,10 @@
     "cligen-v1_0_0_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -11687,14 +10423,10 @@
     "cligen-v1_0_0_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -11720,14 +10452,10 @@
     "cligen-v1_0_0_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11753,14 +10481,10 @@
     "cligen-v1_0_0_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -11786,14 +10510,10 @@
     "cligen-v1_0_0_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -11848,14 +10568,10 @@
     "cligen-v1_1_0_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11881,14 +10597,10 @@
     "cligen-v1_1_0_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -11914,14 +10626,10 @@
     "cligen-v1_1_0_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -11947,14 +10655,10 @@
     "cligen-v1_1_0_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -11980,14 +10684,10 @@
     "cligen-v1_1_0_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -12013,14 +10713,10 @@
     "cligen-v1_1_0_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -12046,14 +10742,10 @@
     "cligen-v1_1_0_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -12079,14 +10771,10 @@
     "cligen-v1_1_0_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -12141,14 +10829,10 @@
     "cligen-v1_2_0_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -12174,14 +10858,10 @@
     "cligen-v1_2_0_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -12207,14 +10887,10 @@
     "cligen-v1_2_0_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -12240,14 +10916,10 @@
     "cligen-v1_2_0_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -12273,14 +10945,10 @@
     "cligen-v1_2_0_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -12306,14 +10974,10 @@
     "cligen-v1_2_0_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -12339,14 +11003,10 @@
     "cligen-v1_2_0_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -12372,14 +11032,10 @@
     "cligen-v1_2_0_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -12434,14 +11090,10 @@
     "cligen-v1_2_1_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -12467,14 +11119,10 @@
     "cligen-v1_2_1_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -12500,14 +11148,10 @@
     "cligen-v1_2_1_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -12533,14 +11177,10 @@
     "cligen-v1_2_1_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -12566,14 +11206,10 @@
     "cligen-v1_2_1_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -12599,14 +11235,10 @@
     "cligen-v1_2_1_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -12632,14 +11264,10 @@
     "cligen-v1_2_1_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -12665,14 +11293,10 @@
     "cligen-v1_2_1_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -12727,14 +11351,10 @@
     "cligen-v1_2_2_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -12760,14 +11380,10 @@
     "cligen-v1_2_2_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -12793,14 +11409,10 @@
     "cligen-v1_2_2_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -12826,14 +11438,10 @@
     "cligen-v1_2_2_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -12859,14 +11467,10 @@
     "cligen-v1_2_2_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -12892,14 +11496,10 @@
     "cligen-v1_2_2_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -12925,14 +11525,10 @@
     "cligen-v1_2_2_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -12958,14 +11554,10 @@
     "cligen-v1_2_2_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -13020,14 +11612,10 @@
     "cligen-v1_3_0_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13053,14 +11641,10 @@
     "cligen-v1_3_0_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13086,14 +11670,10 @@
     "cligen-v1_3_0_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -13119,14 +11699,10 @@
     "cligen-v1_3_0_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -13152,14 +11728,10 @@
     "cligen-v1_3_0_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -13185,14 +11757,10 @@
     "cligen-v1_3_0_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13218,14 +11786,10 @@
     "cligen-v1_3_0_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -13251,14 +11815,10 @@
     "cligen-v1_3_0_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -13313,14 +11873,10 @@
     "cligen-v1_3_1_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13346,14 +11902,10 @@
     "cligen-v1_3_1_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13379,14 +11931,10 @@
     "cligen-v1_3_1_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -13412,14 +11960,10 @@
     "cligen-v1_3_1_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -13445,14 +11989,10 @@
     "cligen-v1_3_1_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -13478,14 +12018,10 @@
     "cligen-v1_3_1_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13511,14 +12047,10 @@
     "cligen-v1_3_1_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -13544,14 +12076,10 @@
     "cligen-v1_3_1_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -13606,14 +12134,10 @@
     "cligen-v1_3_2_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13639,14 +12163,10 @@
     "cligen-v1_3_2_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13672,14 +12192,10 @@
     "cligen-v1_3_2_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -13705,14 +12221,10 @@
     "cligen-v1_3_2_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -13738,14 +12250,10 @@
     "cligen-v1_3_2_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -13771,14 +12279,10 @@
     "cligen-v1_3_2_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13804,14 +12308,10 @@
     "cligen-v1_3_2_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -13837,14 +12337,10 @@
     "cligen-v1_3_2_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -13899,14 +12395,10 @@
     "cligen-v1_4_0_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13932,14 +12424,10 @@
     "cligen-v1_4_0_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -13965,14 +12453,10 @@
     "cligen-v1_4_0_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -13998,14 +12482,10 @@
     "cligen-v1_4_0_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -14031,14 +12511,10 @@
     "cligen-v1_4_0_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -14064,14 +12540,10 @@
     "cligen-v1_4_0_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -14097,14 +12569,10 @@
     "cligen-v1_4_0_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -14130,14 +12598,10 @@
     "cligen-v1_4_0_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -14192,14 +12656,10 @@
     "cligen-v1_4_1_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -14225,14 +12685,10 @@
     "cligen-v1_4_1_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -14258,14 +12714,10 @@
     "cligen-v1_4_1_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -14291,14 +12743,10 @@
     "cligen-v1_4_1_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -14324,14 +12772,10 @@
     "cligen-v1_4_1_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -14357,14 +12801,10 @@
     "cligen-v1_4_1_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -14390,14 +12830,10 @@
     "cligen-v1_4_1_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -14423,14 +12859,10 @@
     "cligen-v1_4_1_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -14485,14 +12917,10 @@
     "cligen-v1_5_0_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -14518,14 +12946,10 @@
     "cligen-v1_5_0_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -14551,14 +12975,10 @@
     "cligen-v1_5_0_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -14584,14 +13004,10 @@
     "cligen-v1_5_0_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -14617,14 +13033,10 @@
     "cligen-v1_5_0_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -14650,14 +13062,10 @@
     "cligen-v1_5_0_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -14683,14 +13091,10 @@
     "cligen-v1_5_0_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -14716,14 +13120,10 @@
     "cligen-v1_5_0_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -14807,14 +13207,10 @@
     "cligen-v1_5_10_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -14840,14 +13236,10 @@
     "cligen-v1_5_10_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -14873,14 +13265,10 @@
     "cligen-v1_5_10_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -14906,14 +13294,10 @@
     "cligen-v1_5_10_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -14939,14 +13323,10 @@
     "cligen-v1_5_10_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -14972,14 +13352,10 @@
     "cligen-v1_5_10_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -15005,14 +13381,10 @@
     "cligen-v1_5_10_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -15038,14 +13410,10 @@
     "cligen-v1_5_10_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -15100,14 +13468,10 @@
     "cligen-v1_5_11_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -15133,14 +13497,10 @@
     "cligen-v1_5_11_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -15166,14 +13526,10 @@
     "cligen-v1_5_11_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -15199,14 +13555,10 @@
     "cligen-v1_5_11_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -15232,14 +13584,10 @@
     "cligen-v1_5_11_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -15265,14 +13613,10 @@
     "cligen-v1_5_11_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -15298,14 +13642,10 @@
     "cligen-v1_5_11_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -15331,14 +13671,10 @@
     "cligen-v1_5_11_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -15393,14 +13729,10 @@
     "cligen-v1_5_12_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -15426,14 +13758,10 @@
     "cligen-v1_5_12_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -15459,14 +13787,10 @@
     "cligen-v1_5_12_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -15492,14 +13816,10 @@
     "cligen-v1_5_12_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -15525,14 +13845,10 @@
     "cligen-v1_5_12_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -15558,14 +13874,10 @@
     "cligen-v1_5_12_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -15591,14 +13903,10 @@
     "cligen-v1_5_12_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -15624,14 +13932,10 @@
     "cligen-v1_5_12_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -15686,14 +13990,10 @@
     "cligen-v1_5_13_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -15719,14 +14019,10 @@
     "cligen-v1_5_13_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -15752,14 +14048,10 @@
     "cligen-v1_5_13_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -15785,14 +14077,10 @@
     "cligen-v1_5_13_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -15818,14 +14106,10 @@
     "cligen-v1_5_13_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -15851,14 +14135,10 @@
     "cligen-v1_5_13_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -15884,14 +14164,10 @@
     "cligen-v1_5_13_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -15917,14 +14193,10 @@
     "cligen-v1_5_13_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -15979,14 +14251,10 @@
     "cligen-v1_5_14_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16012,14 +14280,10 @@
     "cligen-v1_5_14_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16045,14 +14309,10 @@
     "cligen-v1_5_14_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -16078,14 +14338,10 @@
     "cligen-v1_5_14_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -16111,14 +14367,10 @@
     "cligen-v1_5_14_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -16144,14 +14396,10 @@
     "cligen-v1_5_14_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16177,14 +14425,10 @@
     "cligen-v1_5_14_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -16210,14 +14454,10 @@
     "cligen-v1_5_14_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -16272,14 +14512,10 @@
     "cligen-v1_5_15_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16305,14 +14541,10 @@
     "cligen-v1_5_15_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16338,14 +14570,10 @@
     "cligen-v1_5_15_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -16371,14 +14599,10 @@
     "cligen-v1_5_15_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -16404,14 +14628,10 @@
     "cligen-v1_5_15_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -16437,14 +14657,10 @@
     "cligen-v1_5_15_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16470,14 +14686,10 @@
     "cligen-v1_5_15_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -16503,14 +14715,10 @@
     "cligen-v1_5_15_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -16565,14 +14773,10 @@
     "cligen-v1_5_16_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16598,14 +14802,10 @@
     "cligen-v1_5_16_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16631,14 +14831,10 @@
     "cligen-v1_5_16_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -16664,14 +14860,10 @@
     "cligen-v1_5_16_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -16697,14 +14889,10 @@
     "cligen-v1_5_16_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -16730,14 +14918,10 @@
     "cligen-v1_5_16_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16763,14 +14947,10 @@
     "cligen-v1_5_16_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -16796,14 +14976,10 @@
     "cligen-v1_5_16_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -16858,14 +15034,10 @@
     "cligen-v1_5_17_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16891,14 +15063,10 @@
     "cligen-v1_5_17_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -16924,14 +15092,10 @@
     "cligen-v1_5_17_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -16957,14 +15121,10 @@
     "cligen-v1_5_17_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -16990,14 +15150,10 @@
     "cligen-v1_5_17_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -17023,14 +15179,10 @@
     "cligen-v1_5_17_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -17056,14 +15208,10 @@
     "cligen-v1_5_17_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -17089,14 +15237,10 @@
     "cligen-v1_5_17_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -17151,14 +15295,10 @@
     "cligen-v1_5_18_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -17184,14 +15324,10 @@
     "cligen-v1_5_18_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -17217,14 +15353,10 @@
     "cligen-v1_5_18_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -17250,14 +15382,10 @@
     "cligen-v1_5_18_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -17283,14 +15411,10 @@
     "cligen-v1_5_18_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -17316,14 +15440,10 @@
     "cligen-v1_5_18_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -17349,14 +15469,10 @@
     "cligen-v1_5_18_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -17382,14 +15498,10 @@
     "cligen-v1_5_18_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -17444,14 +15556,10 @@
     "cligen-v1_5_19_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -17477,14 +15585,10 @@
     "cligen-v1_5_19_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -17510,14 +15614,10 @@
     "cligen-v1_5_19_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -17543,14 +15643,10 @@
     "cligen-v1_5_19_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -17576,14 +15672,10 @@
     "cligen-v1_5_19_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -17609,14 +15701,10 @@
     "cligen-v1_5_19_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -17642,14 +15730,10 @@
     "cligen-v1_5_19_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -17675,14 +15759,10 @@
     "cligen-v1_5_19_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -17708,14 +15788,10 @@
     "cligen-v1_5_1_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -17741,14 +15817,10 @@
     "cligen-v1_5_1_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -17774,14 +15846,10 @@
     "cligen-v1_5_1_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -17807,14 +15875,10 @@
     "cligen-v1_5_1_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -17840,14 +15904,10 @@
     "cligen-v1_5_1_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -17873,14 +15933,10 @@
     "cligen-v1_5_1_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -17906,14 +15962,10 @@
     "cligen-v1_5_1_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -17939,14 +15991,10 @@
     "cligen-v1_5_1_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -18030,14 +16078,10 @@
     "cligen-v1_5_20_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18063,14 +16107,10 @@
     "cligen-v1_5_20_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18096,14 +16136,10 @@
     "cligen-v1_5_20_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -18129,14 +16165,10 @@
     "cligen-v1_5_20_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -18162,14 +16194,10 @@
     "cligen-v1_5_20_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -18195,14 +16223,10 @@
     "cligen-v1_5_20_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18228,14 +16252,10 @@
     "cligen-v1_5_20_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -18261,14 +16281,10 @@
     "cligen-v1_5_20_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -18323,14 +16339,10 @@
     "cligen-v1_5_21_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18356,14 +16368,10 @@
     "cligen-v1_5_21_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18389,14 +16397,10 @@
     "cligen-v1_5_21_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -18422,14 +16426,10 @@
     "cligen-v1_5_21_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -18455,14 +16455,10 @@
     "cligen-v1_5_21_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -18488,14 +16484,10 @@
     "cligen-v1_5_21_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18521,14 +16513,10 @@
     "cligen-v1_5_21_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -18554,14 +16542,10 @@
     "cligen-v1_5_21_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -18616,14 +16600,10 @@
     "cligen-v1_5_22_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18649,14 +16629,10 @@
     "cligen-v1_5_22_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18682,14 +16658,10 @@
     "cligen-v1_5_22_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -18715,14 +16687,10 @@
     "cligen-v1_5_22_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -18748,14 +16716,10 @@
     "cligen-v1_5_22_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -18781,14 +16745,10 @@
     "cligen-v1_5_22_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18814,14 +16774,10 @@
     "cligen-v1_5_22_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -18847,14 +16803,10 @@
     "cligen-v1_5_22_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -18880,14 +16832,10 @@
     "cligen-v1_5_2_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18913,14 +16861,10 @@
     "cligen-v1_5_2_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -18946,14 +16890,10 @@
     "cligen-v1_5_2_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -18979,14 +16919,10 @@
     "cligen-v1_5_2_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -19012,14 +16948,10 @@
     "cligen-v1_5_2_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -19045,14 +16977,10 @@
     "cligen-v1_5_2_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -19078,14 +17006,10 @@
     "cligen-v1_5_2_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -19111,14 +17035,10 @@
     "cligen-v1_5_2_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -19173,14 +17093,10 @@
     "cligen-v1_5_3_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -19206,14 +17122,10 @@
     "cligen-v1_5_3_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -19239,14 +17151,10 @@
     "cligen-v1_5_3_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -19272,14 +17180,10 @@
     "cligen-v1_5_3_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -19305,14 +17209,10 @@
     "cligen-v1_5_3_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -19338,14 +17238,10 @@
     "cligen-v1_5_3_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -19371,14 +17267,10 @@
     "cligen-v1_5_3_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -19404,14 +17296,10 @@
     "cligen-v1_5_3_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -19466,14 +17354,10 @@
     "cligen-v1_5_4_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -19499,14 +17383,10 @@
     "cligen-v1_5_4_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -19532,14 +17412,10 @@
     "cligen-v1_5_4_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -19565,14 +17441,10 @@
     "cligen-v1_5_4_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -19598,14 +17470,10 @@
     "cligen-v1_5_4_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -19631,14 +17499,10 @@
     "cligen-v1_5_4_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -19664,14 +17528,10 @@
     "cligen-v1_5_4_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -19697,14 +17557,10 @@
     "cligen-v1_5_4_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -19759,14 +17615,10 @@
     "cligen-v1_5_5_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -19792,14 +17644,10 @@
     "cligen-v1_5_5_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -19825,14 +17673,10 @@
     "cligen-v1_5_5_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -19858,14 +17702,10 @@
     "cligen-v1_5_5_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -19891,14 +17731,10 @@
     "cligen-v1_5_5_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -19924,14 +17760,10 @@
     "cligen-v1_5_5_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -19957,14 +17789,10 @@
     "cligen-v1_5_5_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -19990,14 +17818,10 @@
     "cligen-v1_5_5_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -20052,14 +17876,10 @@
     "cligen-v1_5_6_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20085,14 +17905,10 @@
     "cligen-v1_5_6_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20118,14 +17934,10 @@
     "cligen-v1_5_6_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -20151,14 +17963,10 @@
     "cligen-v1_5_6_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -20184,14 +17992,10 @@
     "cligen-v1_5_6_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -20217,14 +18021,10 @@
     "cligen-v1_5_6_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20250,14 +18050,10 @@
     "cligen-v1_5_6_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -20283,14 +18079,10 @@
     "cligen-v1_5_6_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -20345,14 +18137,10 @@
     "cligen-v1_5_7_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20378,14 +18166,10 @@
     "cligen-v1_5_7_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20411,14 +18195,10 @@
     "cligen-v1_5_7_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -20444,14 +18224,10 @@
     "cligen-v1_5_7_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -20477,14 +18253,10 @@
     "cligen-v1_5_7_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -20510,14 +18282,10 @@
     "cligen-v1_5_7_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20543,14 +18311,10 @@
     "cligen-v1_5_7_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -20576,14 +18340,10 @@
     "cligen-v1_5_7_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -20638,14 +18398,10 @@
     "cligen-v1_5_8_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20671,14 +18427,10 @@
     "cligen-v1_5_8_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20704,14 +18456,10 @@
     "cligen-v1_5_8_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -20737,14 +18485,10 @@
     "cligen-v1_5_8_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -20770,14 +18514,10 @@
     "cligen-v1_5_8_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -20803,14 +18543,10 @@
     "cligen-v1_5_8_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20836,14 +18572,10 @@
     "cligen-v1_5_8_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -20869,14 +18601,10 @@
     "cligen-v1_5_8_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -20931,14 +18659,10 @@
     "cligen-v1_5_9_2": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_1_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20964,14 +18688,10 @@
     "cligen-v1_5_9_3": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_0",
           "cligen",
           "nixpkgs"
         ],
@@ -20997,14 +18717,10 @@
     "cligen-v1_5_9_4": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_1",
           "cligen",
           "nixpkgs"
         ],
@@ -21030,14 +18746,10 @@
     "cligen-v1_5_9_5": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_2",
           "cligen",
           "nixpkgs"
         ],
@@ -21063,14 +18775,10 @@
     "cligen-v1_5_9_6": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_2_3",
           "cligen",
           "nixpkgs"
         ],
@@ -21096,14 +18804,10 @@
     "cligen-v1_5_9_7": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-0_4_0",
           "cligen",
           "nixpkgs"
         ],
@@ -21129,14 +18833,10 @@
     "cligen-v1_5_9_8": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-develop",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-develop",
           "cligen",
           "nixpkgs"
         ],
@@ -21162,14 +18862,10 @@
     "cligen-v1_5_9_9": {
       "inputs": {
         "flakeNimbleLib": [
-          "omni",
-          "omni-master",
           "cligen",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "omni",
-          "omni-master",
           "cligen",
           "nixpkgs"
         ],
@@ -22042,11 +19738,11 @@
         "omni-master": "omni-master"
       },
       "locked": {
-        "lastModified": 1647062169,
-        "narHash": "sha256-mYh9gpMsUBIwoTDo+gTmglMlAFK7GE96gHr3RdHsMqs=",
+        "lastModified": 1647120859,
+        "narHash": "sha256-ttLPGp79hNmtraa+MQSjlBgZO/+MZqU/sShSc5pcL9k=",
         "owner": "nim-nix-pkgs",
         "repo": "omni",
-        "rev": "2a43af1433a218572c3c33436bed6eeb713ae7b8",
+        "rev": "ca731f934efef0342394c1dc913f1bf3ce84c907",
         "type": "github"
       },
       "original": {
@@ -22070,13 +19766,20 @@
         "src-omni-0_1_0": "src-omni-0_1_0"
       },
       "locked": {
-        "narHash": "sha256-fgxKvhSAo3cG8viVfLuPwxEo8leF5wQZKIU2mON+vEI=",
-        "path": "./0_1_0",
-        "type": "path"
+        "dir": "0_1_0",
+        "lastModified": 1647120859,
+        "narHash": "sha256-ttLPGp79hNmtraa+MQSjlBgZO/+MZqU/sShSc5pcL9k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "omni",
+        "rev": "ca731f934efef0342394c1dc913f1bf3ce84c907",
+        "type": "github"
       },
       "original": {
-        "path": "./0_1_0",
-        "type": "path"
+        "dir": "0_1_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "omni",
+        "type": "github"
       }
     },
     "omni-0_2_0": {
@@ -22093,13 +19796,20 @@
         "src-omni-0_2_0": "src-omni-0_2_0"
       },
       "locked": {
-        "narHash": "sha256-yFcR/cHxauDkaTRP3+kra5aVktku/vkYGeoIxxwfjbw=",
-        "path": "./0_2_0",
-        "type": "path"
+        "dir": "0_2_0",
+        "lastModified": 1647120859,
+        "narHash": "sha256-ttLPGp79hNmtraa+MQSjlBgZO/+MZqU/sShSc5pcL9k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "omni",
+        "rev": "ca731f934efef0342394c1dc913f1bf3ce84c907",
+        "type": "github"
       },
       "original": {
-        "path": "./0_2_0",
-        "type": "path"
+        "dir": "0_2_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "omni",
+        "type": "github"
       }
     },
     "omni-0_2_1": {
@@ -22116,13 +19826,20 @@
         "src-omni-0_2_1": "src-omni-0_2_1"
       },
       "locked": {
-        "narHash": "sha256-BfEtfA2oTeoCDEIrtwzxFiF+oEpdrlTzrZ2HXyxJh2M=",
-        "path": "./0_2_1",
-        "type": "path"
+        "dir": "0_2_1",
+        "lastModified": 1647120859,
+        "narHash": "sha256-ttLPGp79hNmtraa+MQSjlBgZO/+MZqU/sShSc5pcL9k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "omni",
+        "rev": "ca731f934efef0342394c1dc913f1bf3ce84c907",
+        "type": "github"
       },
       "original": {
-        "path": "./0_2_1",
-        "type": "path"
+        "dir": "0_2_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "omni",
+        "type": "github"
       }
     },
     "omni-0_2_2": {
@@ -22139,13 +19856,20 @@
         "src-omni-0_2_2": "src-omni-0_2_2"
       },
       "locked": {
-        "narHash": "sha256-+VLmu7w207pdXRTk/KesgDXs4g9YpQ4GQvPaP7dxeGI=",
-        "path": "./0_2_2",
-        "type": "path"
+        "dir": "0_2_2",
+        "lastModified": 1647120859,
+        "narHash": "sha256-ttLPGp79hNmtraa+MQSjlBgZO/+MZqU/sShSc5pcL9k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "omni",
+        "rev": "ca731f934efef0342394c1dc913f1bf3ce84c907",
+        "type": "github"
       },
       "original": {
-        "path": "./0_2_2",
-        "type": "path"
+        "dir": "0_2_2",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "omni",
+        "type": "github"
       }
     },
     "omni-0_2_3": {
@@ -22162,13 +19886,20 @@
         "src-omni-0_2_3": "src-omni-0_2_3"
       },
       "locked": {
-        "narHash": "sha256-0mnvOwVEJy7CxBZUjOjb5EPHKHyFur4oAtL1MQ9UFZg=",
-        "path": "./0_2_3",
-        "type": "path"
+        "dir": "0_2_3",
+        "lastModified": 1647120859,
+        "narHash": "sha256-ttLPGp79hNmtraa+MQSjlBgZO/+MZqU/sShSc5pcL9k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "omni",
+        "rev": "ca731f934efef0342394c1dc913f1bf3ce84c907",
+        "type": "github"
       },
       "original": {
-        "path": "./0_2_3",
-        "type": "path"
+        "dir": "0_2_3",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "omni",
+        "type": "github"
       }
     },
     "omni-0_4_0": {
@@ -22185,13 +19916,20 @@
         "src-omni-0_4_0": "src-omni-0_4_0"
       },
       "locked": {
-        "narHash": "sha256-X9ww6CAE0xZMfpXnwN0onCdhYvTkzk56M7vvawMlusQ=",
-        "path": "./0_4_0",
-        "type": "path"
+        "dir": "0_4_0",
+        "lastModified": 1647120859,
+        "narHash": "sha256-ttLPGp79hNmtraa+MQSjlBgZO/+MZqU/sShSc5pcL9k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "omni",
+        "rev": "ca731f934efef0342394c1dc913f1bf3ce84c907",
+        "type": "github"
       },
       "original": {
-        "path": "./0_4_0",
-        "type": "path"
+        "dir": "0_4_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "omni",
+        "type": "github"
       }
     },
     "omni-develop": {
@@ -22208,13 +19946,20 @@
         "src-omni-develop": "src-omni-develop"
       },
       "locked": {
-        "narHash": "sha256-gT7rtuqwL25sQcAzrwfs963VWM1OzpXtDK9rEpJrF0A=",
-        "path": "./develop",
-        "type": "path"
+        "dir": "develop",
+        "lastModified": 1647120859,
+        "narHash": "sha256-ttLPGp79hNmtraa+MQSjlBgZO/+MZqU/sShSc5pcL9k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "omni",
+        "rev": "ca731f934efef0342394c1dc913f1bf3ce84c907",
+        "type": "github"
       },
       "original": {
-        "path": "./develop",
-        "type": "path"
+        "dir": "develop",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "omni",
+        "type": "github"
       }
     },
     "omni-master": {
@@ -22231,13 +19976,20 @@
         "src-omni-master": "src-omni-master"
       },
       "locked": {
-        "narHash": "sha256-h28CJ5INSrcL6KCe/p5ZKc8gdApJKVkULLPWCvce08M=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647120859,
+        "narHash": "sha256-ttLPGp79hNmtraa+MQSjlBgZO/+MZqU/sShSc5pcL9k=",
+        "owner": "nim-nix-pkgs",
+        "repo": "omni",
+        "rev": "ca731f934efef0342394c1dc913f1bf3ce84c907",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "omni",
+        "type": "github"
       }
     },
     "root": {
