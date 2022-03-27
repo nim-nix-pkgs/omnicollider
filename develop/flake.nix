@@ -11,6 +11,7 @@
   inputs.src-omnicollider-develop.ref   = "refs/heads/develop";
   inputs.src-omnicollider-develop.owner = "vitreo12";
   inputs.src-omnicollider-develop.repo  = "omnicollider";
+  inputs.src-omnicollider-develop.dir   = "";
   inputs.src-omnicollider-develop.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
